@@ -1,22 +1,13 @@
 ﻿{
-
 “Token”: “OTIwMDQwNDY0NDUzODYxNDI4.YbekdA.L3Sb-jo7WkcTFXWul47tTgel68o"
-
 }
 {
-
 “name”: “PCC-bot”,
-
 “version”: “1.0.0”,
-
 “description”: “Bot ini masih dalam tahap pengembangan untuk dijadikan bot pribadi di server discord ini: https://discord.io/PCCBOSS”,
-
 “main”: “bot.js”,
-
 “author”: “Lukmanul Hakim(KIM)",
-
 “dependencies”: {}
-
 }
 
 
